@@ -12,7 +12,7 @@ Je suis à la recherche active d'une opportunité d'alternance, travaillant cons
 
 - **Langages de programmation :** HTML / CSS / JavaScript / PHP / C#
 - **Frameworks et bibliothèques :** ReactJS / NodeJS / ExpressJS / Symfony
-- **Autres compétences techniques :** WordPress / WampServer
+- **Autres compétences techniques :** Suite Adobe / WordPress / WampServer
 
 ## Projets récents
 
