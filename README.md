@@ -5,9 +5,10 @@
 ## À propos de moi
 
 Je me présente, Tacite Damien, passionné de développement web et design graphique. 
-Actuellement, je suis en Licence Bac+3 de ma formation en Développeur FullStack.
+Aujourd'hui, je prépare une Licence Bac+3 de ma formation en Développeur FullStack.
 
-Actuellement j'améliore mes précédents projets, en peaufinant mes points forts mais également rattraper mes lacunes.
+Actuellement, je suis activement engagé dans la recherche d'une opportunité d'alternance. 
+Dans le cadre de cette démarche, je travaille à l'amélioration de mes projets antérieurs, en mettant en avant mes points forts tout en cherchant à combler mes lacunes.
 
 ## Compétences
 
@@ -33,13 +34,13 @@ _Cahier des charges et sujet fourni par les formateurs avec propositions et argu
 
 ## Formations
 
-- Want-School - Développeur Web & Applications Mobiles - **Diplômé**
-- LiveCampus - Développeur Fullstack - Janvier 2024 à Janvier 2025
+* Want-School - Développeur Web & Applications Mobiles - **Diplômé**
+* LiveCampus - Développeur Fullstack - Janvier 2024 à Janvier 2025
 
 ## Contact
 
-- LinkedIn : https://www.linkedin.com/in/damien-t-b3b020202/
-- Email : tacitedamien444@gmail.com
+* LinkedIn : https://www.linkedin.com/in/damien-t-b3b020202/
+* Email : tacitedamien444@gmail.com
 
 N'hésitez pas à explorer mes projets GitHub pour en savoir plus sur mes travaux !
 
