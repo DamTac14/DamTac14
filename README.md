@@ -1,10 +1,11 @@
 #README.md
 
-# Bienvenue sur mon profil GitHub !
+# Hello There ! 
 
 ## À propos de moi
 
-Je me prénomme Tacite Damien, passionné de développement web et design. Actuellement, je suis en Licence Bac+3 de ma formation en Développeur FullStack.
+Je me présente, Tacite Damien, passionné de développement web et design graphique. 
+Actuellement, je suis en Licence Bac+3 de ma formation en Développeur FullStack.
 
 Actuellement j'améliore mes précédents projets, en peaufinant mes points forts mais également rattraper mes lacunes.
 
@@ -30,7 +31,7 @@ _Cahier des charges et sujet fourni par les formateurs avec propositions et argu
 
 **Examen blanc servant à la notation de ma formation Développeur Web & Applications Mobiles**
 
-## Éducation
+## Formations
 
 - Want-School - Développeur Web & Applications Mobiles - **Diplômé**
 - LiveCampus - Développeur Fullstack - Janvier 2024 à Janvier 2025
