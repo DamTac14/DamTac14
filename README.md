@@ -36,6 +36,8 @@ Site internet pour l'offre et la réservation de dons entre particuliers.
 
 *Cahier des charges fourni par les formateurs. Examen blanc pour la notation de ma formation Développeur Web & Applications Mobiles.*
 
+Retrouvez [ici](https://drive.google.com/drive/u/0/folders/1OsZwuzGV9B7JVa4qCBgnTMf8auG-bp5x) les documents tel que mon diaporama ou le cahier des charges de mon examen blanc.
+
 ************
 
 ## Formations
