@@ -8,11 +8,15 @@ Je suis Tacite Damien, passionné de développement web et design graphique. Act
 
 Je suis à la recherche active d'une opportunité d'alternance, travaillant constamment à l'amélioration de mes projets antérieurs tout en mettant en avant mes compétences et en comblant mes lacunes.
 
+************
+
 ## Compétences
 
 - **Langages de programmation :** HTML / CSS / JavaScript / PHP / C#
 - **Frameworks et bibliothèques :** ReactJS / NodeJS / ExpressJS / Symfony
 - **Autres compétences techniques :** Suite Adobe / WordPress / WampServer
+
+************
 
 ## Projets récents
 
@@ -22,16 +26,23 @@ Site Intranet pour la gestion d'un atelier de réparation nautique. Offre un sui
 
 *Projet final d'examen pour mon diplôme de Développeur Web & Applications mobiles (Bac +2).*
 
+Retrouvez [ici](https://drive.google.com/drive/u/0/folders/1MSg0heTZb7RuiSQhDc8RjvIZ1R8cKYJf) le mémoire et le diaporama de mon passage à mon examen final.
+
+
 ### Don_Nation
 
 Site internet pour l'offre et la réservation de dons entre particuliers.
 
 *Cahier des charges fourni par les formateurs. Examen blanc pour la notation de ma formation Développeur Web & Applications Mobiles.*
 
+************
+
 ## Formations
 
 - Want-School - Développeur Web & Applications Mobiles - **Diplômé**
 - LiveCampus - Développeur Fullstack - Janvier 2024 à Janvier 2025
+
+************
 
 ## Contact
 
