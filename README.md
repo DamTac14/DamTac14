@@ -1,5 +1,3 @@
-# README.md
-
 # Hello There ! 
 
 ## À propos de moi
