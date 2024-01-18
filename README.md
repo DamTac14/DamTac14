@@ -1,5 +1,8 @@
 # Hello There ! 
 
+![a_propos]([lien_vers_votre_gif.gif](https://mir-s3-cdn-cf.behance.net/project_modules/disp/edc3ab78364175.5ca3009cb66a0.gif))
+
+
 ## À propos de moi
 
 Je suis Tacite Damien, passionné de développement web et design graphique. Actuellement en Licence Bac+3, je poursuis ma formation en tant que Développeur FullStack.
