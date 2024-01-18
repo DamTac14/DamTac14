@@ -1,6 +1,6 @@
 # Hello There ! 
 
-![a_propos]([lien_vers_votre_gif.gif](https://mir-s3-cdn-cf.behance.net/project_modules/disp/edc3ab78364175.5ca3009cb66a0.gif))
+![a_propos](https://mir-s3-cdn-cf.behance.net/project_modules/disp/edc3ab78364175.5ca3009cb66a0.gif)
 
 
 ## À propos de moi
