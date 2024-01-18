@@ -1,7 +1,5 @@
 # Hello There ! 
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/edc3ab78364175.5ca3009cb66a0.gif" alt="a_propos" width="100"/>
-
 
 ## À propos de moi
 
