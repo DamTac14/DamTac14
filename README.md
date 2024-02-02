@@ -17,7 +17,7 @@ Je suis à la recherche active d'une opportunité d'alternance, travaillant cons
 
 ************
 
-## Projets récents
+## Mes plus gros projets
 
 ### Le Havre Nautic
 
