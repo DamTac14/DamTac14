@@ -5,7 +5,7 @@
 
 Je suis Tacite Damien, passionné de développement web et design graphique. Actuellement en Licence Bac+3, je poursuis ma formation en tant que Développeur FullStack.
 
-Je suis à la recherche active d'une opportunité d'alternance, travaillant constamment à l'amélioration de mes projets antérieurs tout en mettant en avant mes compétences et en comblant mes lacunes.
+Je suis depuis Mars 2024 alternant chez la multiple société 1FoTeam, 1FoTrade, 1FoDiscount.
 
 ************
 
@@ -41,8 +41,8 @@ Retrouvez [ici](https://drive.google.com/drive/u/0/folders/1OsZwuzGV9B7JVa4qCBgn
 
 ## Formations
 
-- Want-School - Développeur Web & Applications Mobiles - **Diplômé**
-- LiveCampus - Développeur Fullstack - Janvier 2024 à Janvier 2025
+- Want-School - Développeur Web & Applications Mobiles - Septembre 2022 à Septembre 2023 - **Diplômé**
+- LiveCampus - Développeur Fullstack - Janvier 2024 à Janvier 2025 - **En cours**
 
 ************
 
