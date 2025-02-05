@@ -49,7 +49,6 @@ Retrouvez [ici](https://drive.google.com/drive/u/0/folders/1OsZwuzGV9B7JVa4qCBgn
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/damien-t-b3b020202/)
-- Email : tacitedamien444@gmail.com
 
 N'hésitez pas à explorer mes projets GitHub pour en savoir plus sur mes travaux !
 
