@@ -5,7 +5,7 @@
 
 Je suis Tacite Damien, passionné de développement web et design graphique. Actuellement en Licence Bac+3, je poursuis ma formation en tant que Développeur FullStack.
 
-Je suis depuis Mars 2024 alternant chez la multiple société 1FoTeam, 1FoTrade, 1FoDiscount.
+Je suis depuis Mars 2024 employé chez la multiple société 1FoTeam, 1FoTrade, 1FoDiscount.
 
 ************
 
