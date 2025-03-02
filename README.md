@@ -42,7 +42,7 @@ Retrouvez [ici](https://drive.google.com/drive/u/0/folders/1OsZwuzGV9B7JVa4qCBgn
 ## Formations
 
 - Want-School - Développeur Web & Applications Mobiles - Septembre 2022 à Septembre 2023 - **Diplômé**
-- LiveCampus - Développeur Fullstack - Janvier 2024 à Janvier 2025 - **En cours**
+- LiveCampus - Développeur Fullstack - Janvier 2024 à Janvier 2025 - **Diplômé**
 
 ************
 
