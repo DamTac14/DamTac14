@@ -3,15 +3,14 @@
 
 ## À propos de moi
 
-Je suis Tacite Damien, passionné de développement web et design graphique. Actuellement en Licence Bac+3, je poursuis ma formation en tant que Développeur FullStack.
-
-Je suis depuis Mars 2024 employé chez la multiple société 1FoTeam, 1FoTrade, 1FoDiscount.
+Je suis Tacite Damien, passionné de développement web et design graphique. 
+Je suis depuis Mars 2024 employé en tant que Développeur Fullstack chez la multiple société 1FoTeam, 1FoTrade, 1FoDiscount.
 
 ************
 
 ## Compétences
 
-- **Langages de programmation :** HTML / CSS / JavaScript / PHP / C#
+- **Langages de programmation :** HTML / CSS / SCSS / JavaScript / Jquery / PHP / C#
 - **Frameworks et bibliothèques :** ReactJS / NodeJS / ExpressJS / Symfony
 - **Autres compétences techniques :** Suite Adobe / WordPress / WampServer
 
